@@ -1,0 +1,8 @@
+.page-card-container {
+    font-family: arial;
+    border: 3px solid #ff8888;
+    background-color: #ffcccc;
+    color: #222266;
+    padding: 10px;
+    max-width: 500px;
+}
